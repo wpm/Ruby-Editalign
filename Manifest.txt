@@ -1,0 +1,17 @@
+History.txt
+Manifest.txt
+README.rdoc
+Rakefile
+bin/align-strings
+lib/align-strings/cli.rb
+lib/editalign.rb
+lib/editalign/alignments.rb
+lib/editalign/dijkstra.rb
+lib/editalign/exhaustive.rb
+lib/editalign/graph.rb
+script/console
+script/destroy
+script/generate
+test/test_align-strings_cli.rb
+test/test_editalign.rb
+test/test_helper.rb
